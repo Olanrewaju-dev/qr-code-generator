@@ -4,9 +4,9 @@ Thank you for your interest in my code.
 
 This is a piece of backend logic using Nodejs. In this project, I used both Node native and non-native npm packages:
 
-- [inquirer] (https://www.npmjs.com/package/inquirer)
-- [qr-image] (https://www.npmjs.com/package/qr-image)
-- [fs] (https://nodejs.org/api/fs.html)
+- [inquirer](https://www.npmjs.com/package/inquirer)
+- [qr-image](https://www.npmjs.com/package/qr-image)
+- [fs](https://nodejs.org/api/fs.html)
 
 ## What does it do?
 
