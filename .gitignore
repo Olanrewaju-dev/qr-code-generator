@@ -1,0 +1,6 @@
+### ignoring node 
+node_modules/
+
+### ignoring system files
+.DS_Store
+*.icloud
